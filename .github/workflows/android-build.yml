@@ -28,7 +28,7 @@ jobs:
       - name: Install Capacitor
         run: |
           npm install @capacitor/cli @capacitor/android
-          npx cap init "PhaserGame" "com.example.phasergame" --web-dir=public --npm-client=npm
+          npx cap init "PhaserGame" "com.example.phasergame" --web-dir=public
           npx cap add android
           npx cap sync android
 
