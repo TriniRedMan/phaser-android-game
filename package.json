@@ -1,0 +1,12 @@
+{
+  "name": "phaser-capacitor-android",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "scripts": {
+    "build": "echo 'Assume bundler like webpack builds to dist/main.js'"
+  },
+  "dependencies": {
+    "phaser": "^3.60.0"
+  },
+  "devDependencies": {}
+}
