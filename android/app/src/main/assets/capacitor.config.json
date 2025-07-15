@@ -1,0 +1,6 @@
+{
+	"appId": "com.example.phasergame",
+	"appName": "PhaserGame",
+	"webDir": "public",
+	"bundledWebRuntime": false
+}
